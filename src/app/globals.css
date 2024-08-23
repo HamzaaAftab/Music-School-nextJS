@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+
+.sksi{
+  /* Keyword values */
+scrollbar-color: auto;
+
+/* <color> values */
+scrollbar-color: black rgb(26, 25, 25)/* Two valid colors.
+The first applies to the thumb of the scrollbar, the second to the track. */
+
+
+}
